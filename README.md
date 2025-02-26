@@ -9,9 +9,18 @@ In this lesson, we will cover:
 -   JavaScript programs are made up of **statements**.
 -   Statements **end with a semicolon `;`** (optional but recommended).
 -   Example:
+
     ```js
     let message = "Hello, world!";
     console.log(message);
+    ```
+
+-   JavaScript statements are composed of:
+    Values, Operators, Expressions, Keywords, and Comments.
+-   Example:
+    This statement tells the browser to write "Hello Dolly." inside an HTML element with id="demo":
+    ```js
+    document.getElementById("demo").innerHTML = "Hello Dolly.";
     ```
 
 ## 📌 JavaScript Character Set
