@@ -60,6 +60,19 @@ In this lesson, we will cover:
     let x = y + z;
     ```
 
+
+## 📌 JavaScript Line Length and Line Breaks
+
+-   For best readability, programmers often like to avoid code lines longer than 80 characters.
+-   If a JavaScript statement does not fit on one line, the best place to break it is after an operator:
+
+    For example:
+    
+    ```js
+    document.getElementById("demo").innerHTML =
+    "Hello Dolly!";
+    ```
+
 ## 📌 JavaScript Character Set
 
 -   JavaScript uses the Unicode character set.
