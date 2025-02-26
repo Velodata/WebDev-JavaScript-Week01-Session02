@@ -1,6 +1,22 @@
-# JavaScript Introduction Course
+# JavaScript Language Basics
 
-Lesson materials and exercises.
+Welcome to Lesson 2! In this lesson, we cover:
+
+## 📌 Statements
+
+-   JavaScript programs are made up of **statements**.
+-   Statements **end with a semicolon `;`** (optional but recommended).
+-   Example:
+    ```js
+    let message = "Hello, world!";
+    console.log(message);
+    ```
+
+## 📌 JavaScript Character Set
+
+JavaScript uses the Unicode character set.
+Unicode covers (almost) all the characters, punctuations, and symbols in the world.
+For a closer look, please study our Complete Unicode Reference.
 
 ## 📌 JavaScript Expressions
 
