@@ -73,6 +73,33 @@ In this lesson, we will cover:
     "Hello Dolly!";
     ```
 
+
+## 📌 JavaScript Code Blocks
+
+-   JavaScript statements can be grouped together in code blocks, inside curly brackets {...}.
+-   The purpose of code blocks is to define statements to be executed together.
+-   One place you will find statements grouped together in blocks, is in JavaScript functions:
+    For example
+
+
+    ```js
+    function myFunction() {
+    document.getElementById("demo1").innerHTML = "Hello Dolly!";
+    document.getElementById("demo2").innerHTML = "How are you?";
+    }
+    ```
+
+## 📌 JavaScript Code Blocks
+-   It's quite common for JavaScript statements to start with a keyword which identifies the JavaScript action to be performed.
+
+| Name      | Age | Occupation    |
+|-----------|----:|--------------|
+| John Doe  |  25 | Developer     |
+| Jane Smith|  30 | Designer      |
+| Bob Brown |  40 | Project Manager |
+
+
+
 ## 📌 JavaScript Character Set
 
 -   JavaScript uses the Unicode character set.
