@@ -63,11 +63,12 @@ In this lesson, we will cover:
 
 ## 📌 JavaScript Line Length and Line Breaks
 
--   For best readability, programmers often like to avoid code lines longer than 80 characters.
+-   For best readability, programmers often like to avoid code lines longer than 80 characters.  
+    Although with large modern screens nowadays the need to do this is less common.
 -   If a JavaScript statement does not fit on one line, the best place to break it is after an operator:
 
     For example:
-    
+
     ```js
     document.getElementById("demo").innerHTML =
     "Hello Dolly!";
