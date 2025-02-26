@@ -122,6 +122,25 @@ In this lesson, we will cover:
 
     ```
 
+## 📌 Multi-line Comments
+
+-   Multi-line comments start with /* and end with */.
+-   Multi-line happen when we're commeting out multiple lines of JavaScript
+-   Any text between /* and */ will be ignored by JavaScript.
+-   This example uses a multi-line comment (a comment block) to explain the code:
+
+    ```js
+    /*
+    The code below will change
+    the heading with id = "myH"
+    and the paragraph with id = "myP"
+    in my web page:
+    */
+    document.getElementById("myH").innerHTML = "My First Page";
+    document.getElementById("myP").innerHTML = "My first paragraph.";
+    ```
+
+
 ## 📌 JavaScript Character Set
 
 -   JavaScript uses the Unicode character set.
