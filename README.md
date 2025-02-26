@@ -125,7 +125,7 @@ In this lesson, we will cover:
 ## 📌 Multi-line Comments
 
 -   Multi-line comments start with /* and end with */.
--   Multi-line happen when we're commeting out multiple lines of JavaScript
+-   Multi-line comments happen when we comment out multiple lines of JavaScript.
 -   Any text between /* and */ will be ignored by JavaScript.
 -   This example uses a multi-line comment (a comment block) to explain the code:
 
@@ -139,6 +139,24 @@ In this lesson, we will cover:
     document.getElementById("myH").innerHTML = "My First Page";
     document.getElementById("myP").innerHTML = "My first paragraph.";
     ```
+
+## 📌 JavaScript Identifiers 
+
+-   Identifiers are JavaScript names.
+-   Identifiers are used to name variables and keywords, and functions.
+-   The rules for legal names are the same in most programming languages.
+-   A JavaScript name must begin with:
+
+    -   A letter (A-Z or a-z)
+    -   • A dollar sign ($)
+    -   • Or an underscore (_)
+
+-   Subsequent characters may be letters, digits, underscores, or dollar signs
+
+###  Special Note
+
+    Numbers are not allowed as the first character in names.
+    This way JavaScript can easily distinguish identifiers from numbers.
 
 
 ## 📌 JavaScript Character Set
