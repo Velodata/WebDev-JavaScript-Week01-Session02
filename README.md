@@ -153,10 +153,49 @@ In this lesson, we will cover:
 
 -   Subsequent characters may be letters, digits, underscores, or dollar signs
 
-###  Special Note
+    ###  Special Note
 
     Numbers are not allowed as the first character in names.
+
     This way JavaScript can easily distinguish identifiers from numbers.
+
+
+
+## 📌 JavaScript is ALWAYS Case Sensitive
+
+-   All JavaScript identifiers are case sensitive.
+-   For example:  The variables `lastName` and `lastname`, are two different variables:
+
+    ```js
+    let lastname, lastName;
+    lastName = "Doe";
+    lastname = "Peterson";
+    ```
+
+## 📌 JavaScript and Camel Case
+
+-   Historically, programmers have used different ways of joining multiple words into one variable name:
+
+    ### Hypens  -  NOT ALLOWED
+
+    first-name, last-name, master-card, inter-city
+
+- Hyphens are not allowed in JavaScript. They are reserved for subtractions.
+
+    ### Underscore  (allowed)
+
+    first_name, last_name, master_card, inter_city.
+
+    ### Upper Camel Case  -  aka Pascal Case  (allowed)
+
+    FirstName, LastName, MasterCard, InterCity
+
+    ### Lower Camel Case
+
+    firstName, lastName, masterCard, interCity
+
+-   JavaScript programmers tend to use lower camel case that starts with a lowercase letter:
+
 
 
 ## 📌 JavaScript Character Set
