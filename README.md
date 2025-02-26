@@ -22,6 +22,15 @@ In this lesson, we will cover:
     ```js
     document.getElementById("demo").innerHTML = "Hello Dolly.";
     ```
+-   Most JavaScript programs contain many JavaScript statements.
+    The statements are executed, one by one, in the same order as they are written.
+    JavaScript programs (and JavaScript statements) are often called JavaScript code.
+
+    ### Semicolons
+
+        Semicolons separate JavaScript statements.
+
+    Add a semicolon at the end of each executable statement
 
 ## 📌 JavaScript Character Set
 
