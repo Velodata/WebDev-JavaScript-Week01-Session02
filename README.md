@@ -41,6 +41,12 @@ In this lesson, we will cover:
     c = a + b; // Assign the sum of a and b to c
     ```
 
+    When they are separated by semicolons, multiple statements on one line are allowed:
+
+    ```js
+    a = 5;b = 6;c = a + b;
+    ```
+
 ## 📌 JavaScript Character Set
 
 -   JavaScript uses the Unicode character set.
