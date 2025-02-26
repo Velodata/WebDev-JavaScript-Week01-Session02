@@ -92,11 +92,17 @@ In this lesson, we will cover:
 ## 📌 JavaScript Code Blocks
 -   It's quite common for JavaScript statements to start with a keyword which identifies the JavaScript action to be performed.
 
-| Name      | Age | Occupation    |
-|-----------|----:|--------------|
-| John Doe  |  25 | Developer     |
-| Jane Smith|  30 | Designer      |
-| Bob Brown |  40 | Project Manager |
+| Keyword   | Description    |
+|-----------|------------------|
+| Jvar      |  Declares a variable   |
+| let       |  Declares a block variable      |
+| const     |  Declares a block constant |
+| if        | Marks a block of statements to be executed if a condition is true |
+| switch    | Marks a block of statements to be executed in different cases |
+| for       | Marks a block of statements to be executed in a loop |
+| function  | Declares a function |
+| return    | Exits a function |
+| try       | Implements error handling to a block of statements |
 
 
 
