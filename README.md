@@ -1,6 +1,8 @@
 # JavaScript Language Basics
 
-Welcome to Lesson 2! In this lesson, we cover:
+Welcome to Week 01, Session 02!
+
+In this lesson, we will cover:
 
 ## 📌 Statements
 
