@@ -155,14 +155,10 @@ In this lesson, we will cover:
 
     ###  Special Note
 
-<<<<<<< HEAD
     Numbers are not allowed as the first character in names.
 
     This way JavaScript can easily distinguish identifiers from numbers.
-=======
-Numbers are not allowed as the first character in names.
-This way JavaScript can easily distinguish identifiers from numbers.
->>>>>>> 67c3d4f3f9c6fff2f3c2330432f3060f7af8ce97
+
 
 
 

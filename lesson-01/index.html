@@ -4,25 +4,24 @@
 <!-- IJV - 2025.02.24 - We can put JavaScript in many different places -->
 
 
-<html>
+<html lang="en">
 
 <head>
-    <title>Lesson 01 - Introduction</title>
-
-    <script>
-        console.log('JavaScript  -  Location One');
-    </script>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Const Example</title>
 </head>
 
-
-
 <body>
-    <h1>Welcome to Lesson One</h1>
-</body>
+    <!-- This is where we will display the value of the const variable -->
+    <p id="output"></p>
+    <script>
+        // Define a constant variable
+        const greeting = "Hello, world!";
 
-<script>
-    console.log('JavaScript  -  Location Two');
-</script>
+        // Display the value of the constant variable on the screen
+        document.getElementById("output").textContent = greeting;
+    </script>
+</body>
 
 </html>
