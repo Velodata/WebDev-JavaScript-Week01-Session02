@@ -52,6 +52,14 @@ In this lesson, we will cover:
     let person = "Hege";
     ```
 
+        A good practice is to put spaces around operators ( = + - * / ):
+
+    For example:
+
+    ```js
+    let x = y + z;
+    ```
+
 ## 📌 JavaScript Character Set
 
 -   JavaScript uses the Unicode character set.
