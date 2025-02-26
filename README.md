@@ -41,10 +41,15 @@ In this lesson, we will cover:
     c = a + b; // Assign the sum of a and b to c
     ```
 
-    When they are separated by semicolons, multiple statements on one line are allowed:
+## 📌 JavaScript White Space
+
+-   JavaScript ignores multiple spaces. You can add white space to your script to make it more
+    readable.
+-   For example: The following statements are equivalent in JavaScript:
 
     ```js
-    a = 5;b = 6;c = a + b;
+    let person  =  "Hege";
+    let person = "Hege";
     ```
 
 ## 📌 JavaScript Character Set
