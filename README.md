@@ -155,8 +155,8 @@ In this lesson, we will cover:
 
 ###  Special Note
 
-    Numbers are not allowed as the first character in names.
-    This way JavaScript can easily distinguish identifiers from numbers.
+Numbers are not allowed as the first character in names.
+This way JavaScript can easily distinguish identifiers from numbers.
 
 
 ## 📌 JavaScript Character Set
