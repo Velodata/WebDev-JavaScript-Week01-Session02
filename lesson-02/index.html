@@ -1,18 +1,32 @@
 <!DOCTYPE html>
 
 
-<!-- IJV - 2025.02.24 - JavaScript can also be loaded via an external file too: -->
+<!-- IJV - 2025.02.26 - This is another example which shows how to use a const keyword -->
 
 
-<html>
+<html lang="en">
 
 <head>
-    <title>Lesson 02 - Introduction</title>
-    <script src="/lesson-02/script.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numerical Calculation with JavaScript Const</title>
 </head>
 
 <body>
-    <h1>Welcome to Lesson Two</h1>
+    <!-- This is where we will display the result of the calculation -->
+    <p id="output"></p>
+    <script>
+        // Define constant variables for numerical values
+        const num1 = 10;
+        const num2 = 5;
+
+        // Perform a numerical calculation (addition in this case)
+        const sum = num1 + num2;
+
+        // Display the result of the calculation on the screen
+        document.getElementById("output").textContent = "The sum of " + num1 + " and " + num2
+            + " is: " + sum;
+    </script>
 </body>
 
 </html>
