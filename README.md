@@ -52,7 +52,7 @@ In this lesson, we will cover:
     let person = "Hege";
     ```
 
-        A good practice is to put spaces around operators ( = + - * / ):
+    A good practice is to put spaces around operators ( = + - * / ):
 
     For example:
 
