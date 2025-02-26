@@ -4,7 +4,7 @@ Welcome to Week 01, Session 02!
 
 In this lesson, we will cover:
 
-## 📌 Statements
+## 📌 JavaScript Statements
 
 -   JavaScript programs are made up of **statements**.
 -   Statements **end with a semicolon `;`** (optional but recommended).
@@ -17,17 +17,19 @@ In this lesson, we will cover:
 
 -   JavaScript statements are composed of:
     Values, Operators, Expressions, Keywords, and Comments.
--   Example:
-    This statement tells the browser to write "Hello Dolly." inside an HTML element with id="demo":
+-   For Example:
+    This next statement tells the browser to write "Hello Dolly." inside an HTML element with id="demo":
     ```js
     document.getElementById("demo").innerHTML = "Hello Dolly.";
     ```
 
 ## 📌 JavaScript Character Set
 
-JavaScript uses the Unicode character set.
-Unicode covers (almost) all the characters, punctuations, and symbols in the world.
-For a closer look, please study our Complete Unicode Reference.
+-   JavaScript uses the Unicode character set.
+
+-   Unicode covers (almost) all the characters, punctuations, and symbols in the world.
+
+-   For a closer look, please study our Complete Unicode Reference.
 
 ## 📌 JavaScript Expressions
 
