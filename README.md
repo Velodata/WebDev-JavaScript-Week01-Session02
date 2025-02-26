@@ -90,6 +90,7 @@ In this lesson, we will cover:
     ```
 
 ## 📌 JavaScript Code Blocks
+
 -   It's quite common for JavaScript statements to start with a keyword which identifies the JavaScript action to be performed.
 
 | Keyword   | Description    |
@@ -105,6 +106,21 @@ In this lesson, we will cover:
 | try       | Implements error handling to a block of statements |
 
 
+
+## 📌 JavaScript Comments 
+
+-   Not all JavaScript statements are "executed".
+-   Code after double slashes // or between /* and */ is treated as a comment.
+-   Comments are ignored, and will not be executed:
+
+    For example:
+
+    ```js
+    let x = 5; // I will be executed
+    
+    // x = 6; I will NOT be executed 
+
+    ```
 
 ## 📌 JavaScript Character Set
 
