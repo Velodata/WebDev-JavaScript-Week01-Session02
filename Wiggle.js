@@ -1,6 +1,8 @@
-// Velo Data,  April 2016
+// VeloData Wiggle Project,  April 2016 - November 2018
 // First 160 lines lifted from the free dashboard chassis provided by "Creative Tim",  Bootstrap specialists.
-// All functions from Line 160 are written by Ivan Julian for this software project
+// All functions from Line 160 are written by Ivan Julian for this project
+// 
+// Liberal use of jQuery in this Library file,  plus BackBone.js,  plus DataTables.js
 // 
 // 
 var lcContent = null;
